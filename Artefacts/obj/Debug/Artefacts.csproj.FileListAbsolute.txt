@@ -1,0 +1,15 @@
+D:\Code\Projects\Artefacts3\Artefacts\obj\Debug\Artefacts.Properties.Resources.resources
+D:\Code\Projects\Artefacts3\Artefacts\obj\Debug\Artefacts.csproj.GenerateResource.Cache
+D:\Code\Projects\Artefacts3\Artefacts\bin\Debug\Artefacts.dll
+D:\Code\Projects\Artefacts3\Artefacts\bin\Debug\Artefacts.pdb
+D:\Code\Projects\Artefacts3\Artefacts\bin\Debug\MongoDB.Bson.dll
+D:\Code\Projects\Artefacts3\Artefacts\bin\Debug\MongoDB.Bson.xml
+D:\Code\Projects\Artefacts3\Artefacts\obj\Debug\Artefacts.dll
+D:\Code\Projects\Artefacts3\Artefacts\obj\Debug\Artefacts.pdb
+D:\Code\Projects\Artefacts3\Artefacts\obj\Debug\Artefacts.csprojResolveAssemblyReference.cache
+D:\Code\Projects\Artefacts3\Artefacts\bin\Debug\MongoDB.Driver.Core.dll
+D:\Code\Projects\Artefacts3\Artefacts\bin\Debug\MongoDB.Driver.dll
+D:\Code\Projects\Artefacts3\Artefacts\bin\Debug\nunit.framework.dll
+D:\Code\Projects\Artefacts3\Artefacts\bin\Debug\Serialize.Linq.dll
+D:\Code\Projects\Artefacts3\Artefacts\bin\Debug\MongoDB.Driver.xml
+D:\Code\Projects\Artefacts3\Artefacts\bin\Debug\nunit.framework.xml

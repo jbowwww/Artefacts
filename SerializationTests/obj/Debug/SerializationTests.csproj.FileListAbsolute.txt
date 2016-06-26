@@ -1,0 +1,12 @@
+D:\Code\Projects\Artefacts3\SerializationTests\obj\Debug\SerializationTests.csprojResolveAssemblyReference.cache
+D:\Code\Projects\Artefacts3\SerializationTests\bin\Debug\SerializationTests.exe
+D:\Code\Projects\Artefacts3\SerializationTests\bin\Debug\SerializationTests.pdb
+D:\Code\Projects\Artefacts3\SerializationTests\bin\Debug\Artefacts.dll
+D:\Code\Projects\Artefacts3\SerializationTests\bin\Debug\MongoDB.Bson.dll
+D:\Code\Projects\Artefacts3\SerializationTests\bin\Debug\Artefacts.pdb
+D:\Code\Projects\Artefacts3\SerializationTests\bin\Debug\MongoDB.Bson.xml
+D:\Code\Projects\Artefacts3\SerializationTests\obj\Debug\SerializationTests.exe
+D:\Code\Projects\Artefacts3\SerializationTests\obj\Debug\SerializationTests.pdb
+D:\Code\Projects\Artefacts3\SerializationTests\bin\Debug\Service.dll
+D:\Code\Projects\Artefacts3\SerializationTests\bin\Debug\Service.pdb
+D:\Code\Projects\Artefacts3\SerializationTests\bin\Debug\Serialize.Linq.dll

@@ -1,0 +1,5 @@
+D:\Code\Projects\Artefacts3\FileSystemArtefacts\bin\Debug\FileSystemArtefacts.dll
+D:\Code\Projects\Artefacts3\FileSystemArtefacts\bin\Debug\FileSystemArtefacts.pdb
+D:\Code\Projects\Artefacts3\FileSystemArtefacts\obj\Debug\FileSystemArtefacts.csprojResolveAssemblyReference.cache
+D:\Code\Projects\Artefacts3\FileSystemArtefacts\obj\Debug\FileSystemArtefacts.dll
+D:\Code\Projects\Artefacts3\FileSystemArtefacts\obj\Debug\FileSystemArtefacts.pdb

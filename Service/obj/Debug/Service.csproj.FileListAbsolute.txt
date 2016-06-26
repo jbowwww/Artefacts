@@ -1,0 +1,13 @@
+D:\Code\Projects\Artefacts3\Service\bin\Debug\Service.dll
+D:\Code\Projects\Artefacts3\Service\bin\Debug\Service.pdb
+D:\Code\Projects\Artefacts3\Service\bin\Debug\Artefacts.dll
+D:\Code\Projects\Artefacts3\Service\bin\Debug\MongoDB.Bson.dll
+D:\Code\Projects\Artefacts3\Service\bin\Debug\Artefacts.pdb
+D:\Code\Projects\Artefacts3\Service\bin\Debug\MongoDB.Bson.xml
+D:\Code\Projects\Artefacts3\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\Code\Projects\Artefacts3\Service\obj\Debug\Service.dll
+D:\Code\Projects\Artefacts3\Service\obj\Debug\Service.pdb
+D:\Code\Projects\Artefacts3\Service\bin\Debug\MongoDB.Driver.Core.dll
+D:\Code\Projects\Artefacts3\Service\bin\Debug\MongoDB.Driver.dll
+D:\Code\Projects\Artefacts3\Service\bin\Debug\MongoDB.Driver.xml
+D:\Code\Projects\Artefacts3\Service\bin\Debug\Serialize.Linq.dll
